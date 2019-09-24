@@ -1,3 +1,11 @@
+# LEGACY USE ONLY
+
+As of Sept 2019, this library has been officially forked by Appoptics. You should use [the official version](https://github.com/appoptics/go-metrics-appoptics) instead of this repo for any new projects.
+
+*This repo is only for backwards-compatibility with existing projects; any contributions should now be made to [the officialy-maintained version](https://github.com/appoptics/go-metrics-appoptics)*.
+
+## go-metrics-appoptics
+
 This is a reporter for the [go-metrics](https://github.com/rcrowley/go-metrics)
 library which posts the metrics to [AppOptics](https://www.appoptics.com/)/Librato. 
 It is forked from [go-metrics-librato](https://github.com/mihasya/go-metrics-librato) and
